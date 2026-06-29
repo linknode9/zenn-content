@@ -3,7 +3,7 @@ title: "非エンジニアがClaude Codeで1,588語のIT用語アプリを出荷
 emoji: "📘"
 type: "tech"
 topics: ["claude", "個人開発", "ios", "githubactions", "aso"]
-published: false # 公開準備ができたら true
+published: true # 公開準備ができたら true
 ---
 
 エンジニアじゃない自分が、Claude Codeに頼り倒してIT用語辞書アプリをApp Storeに出した。その作り方の過程と、設計で考えたことをありのままに書く。
